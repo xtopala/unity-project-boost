@@ -19,6 +19,8 @@ public class Oscilator : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        // set movement factor automatically
+
         Vector3 offset = movementVector * movementFactor;
         transform.position = startingPos + offset;
     }
