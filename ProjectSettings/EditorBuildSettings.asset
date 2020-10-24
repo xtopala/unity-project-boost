@@ -6,9 +6,24 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Levels/Level 1.unity
+    path: Assets/Levels/basic flight.unity
     guid: 917fda036807a314fae02ff00e865ab6
   - enabled: 1
-    path: Assets/Levels/Level 2.unity
+    path: Assets/Levels/up and over.unity
     guid: e59e664599764e04e9f855ad1a9280f7
+  - enabled: 1
+    path: Assets/Levels/easy gap.unity
+    guid: 9a4f1e2c69d80d645a13ef47e42b44d9
+  - enabled: 1
+    path: Assets/Levels/chompers.unity
+    guid: 6c8c11be94b4c9d49b2e51b2f31d0d91
+  - enabled: 1
+    path: Assets/Levels/saw.unity
+    guid: 17a5041ea48a16241bb3ea23584c6a9a
+  - enabled: 1
+    path: Assets/Levels/thread the needle.unity
+    guid: e4dd1189d1f8bc94b8b9d4bebbd65304
+  - enabled: 1
+    path: Assets/Levels/now u see it.unity
+    guid: 8537697cb54de8141be3f0fba802b221
   m_configObjects: {}
